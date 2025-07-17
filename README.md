@@ -1,0 +1,2 @@
+# exoteam
+exercice groupes 
